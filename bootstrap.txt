@@ -1,0 +1,10 @@
+layoutit.it
+bootstrap classes name:
+	1.container
+2.row
+3.xs
+4.sm
+5.md
+6.lg
+7.xl
+8.print
